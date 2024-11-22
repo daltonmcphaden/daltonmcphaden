@@ -6,4 +6,4 @@ I specialize in:
 - 🧪 **Elixir** for scalable and fault tolerant systems
 - ⚡ **Typescript** + **Next.js** for modern web development
 
-🌐 Let's Connect: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/daltonmcphaden/))
+🌐 Let's Connect: [LinkedIn](https://www.linkedin.com/in/daltonmcphaden/)
