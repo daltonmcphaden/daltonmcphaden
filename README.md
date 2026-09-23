@@ -1,6 +1,6 @@
 ## Hi there, I'm Dalton 👋
 
-I'm a **Software Engineer** based in **Vancouver** ⛰️, currently working at [Hiive](https://hiive.com) — the marketplace for private stock. 🐝✨ 
+I'm a **Software Engineer** based in **Vancouver** ⛰️, currently working at [Clarity](https://www.clarity.com) — connecting capital and opportunity in private markets.
 
 I specialize in:
 - 🧪 **Elixir** for scalable and fault tolerant systems
