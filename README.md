@@ -1,6 +1,6 @@
 ## Hi there, I'm Dalton 👋
 
-I'm a **Software Engineer** based in **Vancouver** ⛰️, currently working at [Clarity](https://www.clarity.com) — connecting capital and opportunity in private markets.
+I'm a **Software Engineer** based in **Vancouver** ⛰️, currently working at [Clarity](https://www.clarity.com).
 
 I specialize in:
 - 🧪 **Elixir** for scalable and fault tolerant systems
